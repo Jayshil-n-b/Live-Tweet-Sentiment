@@ -1,0 +1,7 @@
+pandas
+streamlit
+pickle5
+sklearn
+scikit-learn
+textblob
+tweepy
